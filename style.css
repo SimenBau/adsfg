@@ -11,9 +11,9 @@
 .container2 *{
     margin: 5px
 }
-.check {
+#check {
     padding: 10px;
 }
-.random {
+#random {
     padding: 10px;
 }
